@@ -1,0 +1,18 @@
+{
+    "token" : "The token.",
+    "clientId" : "The client ID.",
+    "clientSecret" : "The client secret.",
+    "publicKey" : "The public key.",
+    "prefix" : "The prefix.",
+    "reddit" : {
+        "clientId" : "clientId",
+        "clientSecret" : "",
+        "username" : "yourUsername",
+        "password" : "yourPassword",
+        "userAgent" : "canBeAnything"
+    },
+    "IDs" : {
+        "ownerId" : "Bot Owner ID",
+        "serverLogId" : "new server log ID"
+    }
+}

@@ -1,0 +1,9 @@
+asyncio
+discord.py
+praw
+aiosqlite
+dblpy
+DiscordUtils
+jishaku
+aiomojang
+youtube_dl
